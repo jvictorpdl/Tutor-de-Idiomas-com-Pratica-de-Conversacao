@@ -1,0 +1,26 @@
+{
+  "name": "tutor-de-idiomas-com-pratica-de-conversacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvictorpdl/Tutor-de-Idiomas-com-Pratica-de-Conversacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvictorpdl/Tutor-de-Idiomas-com-Pratica-de-Conversacao/issues"
+  },
+  "homepage": "https://github.com/jvictorpdl/Tutor-de-Idiomas-com-Pratica-de-Conversacao#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0"
+  }
+}
